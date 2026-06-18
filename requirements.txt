@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+deep-translator==1.11.4
+arabic-reshaper==3.0.1
+python-bidi==0.6.10
+gTTS==2.5.4
+pygame==2.6.1
